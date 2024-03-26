@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlackScreenRepro</string>
+    <string name="hello_first_fragment">First fragment</string>
+    <string name="hello_second_fragment">Second fragment</string>
+</resources>
