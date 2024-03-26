@@ -8,8 +8,8 @@ junitVersion = "1.1.5"
 espressoCore = "3.5.1"
 lifecycleRuntimeKtx = "2.7.0"
 activityCompose = "1.8.2"
-#composeBom = "2023.10.01" # This is the latest working version
-composeBom = "2024.03.00" # This is the latest version with buggy behavior
+composeBom = "2023.10.01" # This is the latest working version
+#composeBom = "2024.03.00" # This is the latest version with buggy behavior
 appcompat = "1.6.1"
 
 [libraries]
